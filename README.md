@@ -1,4 +1,4 @@
-# naijahacks-surepsyche
+# SurePsyches - Mental Awareness For All
 Here to create a solution for mental health awareness.
 
 # Team Members 
