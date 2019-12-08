@@ -1,5 +1,5 @@
 # SurePsyches - Mental Awareness For All
-Here to create a solution for mental health awareness.
+Surepsyches is asolution that enables and facilitates the wholesome education about mental health. it provides an easy-to-access, friendly and ever-available resource to seek enlightenment and education about mental health
 
 # Team Members 
 1. Ebere Okonkwo - Frontend Developer
