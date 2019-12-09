@@ -5,4 +5,4 @@ Surepsyches is asolution that enables and facilitates the wholesome education ab
 1. Ebere Okonkwo - Frontend Developer
 2. Okaneme Chibuikem Victor - Backend Developer
 3. Nwachukwu Ifeoma Sandra - Frontend Developer
-4. Martins Abayomi - Fullstack Developer
+4. Martins Obayomi - Fullstack Developer
